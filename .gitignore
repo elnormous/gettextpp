@@ -1,0 +1,6 @@
+﻿tests/x64
+tests/tests/x64
+tests/tests/Debug
+tests/tests/Release
+tests/Debug
+tests/Release
